@@ -34,12 +34,15 @@ h4 {
 }
 
 .main-btn {
-	margin: 25px 150px 0px 310px;
+	margin-top: 50px;
+	display: block;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
 .info-btn {
 	border: 2px solid #fff;
-	margin-right: 20px;
+	margin: 20px;
 	height:50px;
 }
 
